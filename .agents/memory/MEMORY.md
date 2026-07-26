@@ -1,0 +1,1 @@
+- [Replit Auth mobile setup](replit-auth-mobile.md) — ABDI uses Replit Auth OIDC/PKCE for mobile; openapi.yaml must not use format:uri (breaks Zod v4 codegen)
